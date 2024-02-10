@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, world!
+# My name is Fabian LeGair. I am a 24 year old Air Force veteran, an artist, and an aspiring software developer.
 
-<!--
-**fabianlegair/fabianlegair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am currently enrolled in the Amazon Career Choice Tech Elevator Coding bootcamp
 
-Here are some ideas to get you started:
+# I am learning how to use the terminal, GitHub, Java, JavaScript, HTML, CSS, and UX Design (With Google's Coursera course). My next goal is learning AWS Clous systems, and becoming certified.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I would greatly appreciate any advice, tutoring, and mentoring.
+
+# You can reach me at;
+# fabian.d.legair@gmail.com
+# https://www.linkedin.com/in/fabian-legair-18a4422b2/
+# https://www.facebook.com/fabiandlegair
