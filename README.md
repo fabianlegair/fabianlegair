@@ -9,5 +9,6 @@
 
 # You can reach me at;
 # fabian.d.legair@gmail.com
-# https://www.linkedin.com/in/fabian-legair-18a4422b2/
+# https://www.linkedin.com/in/fabianlegair/
 # https://www.facebook.com/fabiandlegair
+ 
