@@ -1,5 +1,5 @@
 # Hello, world!
-# My name is Fabian LeGair. I am a 24 year old Air Force veteran, an artist, and an aspiring software developer.
+# My name is Fabian LeGair. I am a 25 year old Air Force veteran, an artist, and an aspiring software developer.
 
 # I am currently enrolled in the Amazon Career Choice Tech Elevator Coding bootcamp.
 
